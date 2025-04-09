@@ -1,0 +1,84 @@
++91-9350882488 
+Ashish Kumar
+ Ashishkumar201
+ Gurgaon, Haryana
+ Ashishkumarbagria@gmail.com 
+ABOUT ME
+ ashishkumar201 
+Skilled Full Stack Developer with expertise in MongoDB, Express.js, React, and Node.js (MERN Stack). Proficient
+ in building scalable web applications, RESTful APIs, and database management. Passionate about clean code,
+ responsive design, and optimizing performance for seamless user experiences.
+ EDUCATION
+ Vellore Institute of Technology
+ August 2024
+ Bachelor of Technology- Information Technology- CGPA: 7.37
+ Gurukul Kurukshetra
+ Secondary Education- Science- Percentage: 95%
+ COURSEWORK / SKILLS
+ Vellore, India
+ Kurukshetra, India
+ • Data Structures &
+ Algorithms
+ • Operating Systems
+ • Network Security
+ • Database Management
+ System (DBMS)
+ • Artificial Intelligence
+ • OOPS Concept
+ • Web Development
+ PROJECTS
+ Todo List Application | ReactJS, NodeJS, ExpressJS, MongoDB
+ • MongoDB
+ • PHP
+ • Python
+ July 2023
+ • Developed a full-stack Todo List application with user authentication and data persistence using MongoDB.
+ Users can efficiently manage tasks with CRUD operations.
+ Movie Information App | ReactJS, TMDB API
+ August 2023
+ • Built a React app that fetches and displays movie data (details, posters, reviews) from the TMDB API.
+ Features include search functionality and responsive design.
+ E-commerce Platform | ReactJS, NodeJS, ExpressJS,
+ December 2023
+ • Developed a full-stack e-commerce platform with features for product browsing, shopping cart management,
+ order processing, and user authentication. Utilized Redux for state management and PostgreSQL for data
+ storage.
+ • Implemented a complete website with frontend, backend and database, It was great to manage a full stack
+ project and learning were great.
+ Library Management System | MySQL, Xampp, VScode
+ December 2023
+ • A library management system SQL database stores book, member, and transaction data, enabling efficient
+ tracking of resources. It uses tables and relationships to manage borrowing, returns, and catalog information.
+ INTERNSHIP
+ Festo Technologies 
+March 2022
+ Frontend Developer
+ Remote, India
+ • Responsible for management of frontend development with HTML, CSS and javascript and learnt React
+ and php in order fulfill the needs at the workplace.
+ TECHNICAL SKILLS
+ Languages: Python, C, C++, JavaScript, SQL, NoSQL, R, PHP
+ Developer Tools: VS Code, Jupyter, wordpress, Intellij Idea Ultimate
+ Technologies/Frameworks: Linux, GitHub, ReactJS, NextJS, NodeJS, ExpressJS, Git, Mongo
+ Soft Skills: Communication, Teamwork, Problem-Solving, Time Management, Adaptability
+ CERTIFICATIONS
+ •
+ •
+ •
+ ReactJS &- Udemy
+ Python for Data Science- XIE
+ 4 Stars in C++ & SQL 
+•
+ Java- Udemy
+ •
+ SQL
+ •
+ •
+ Command Line in Linux- Coursera
+ Business Intelligence Analyst
+ NodeJS with Express & MongoDB- Udemy
+ •
+
+
+this is the content as of now and also many modificatin has to be made so make the changes accordingly.
+give the prompt with these contents included as it will ease to provide all the necesssary information
