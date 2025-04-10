@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Github, Linkedin, Mail, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const Hero = () => {
@@ -44,9 +44,16 @@ const Hero = () => {
               <a href="https://linkedin.com/in/ashishkumar201" target="_blank" rel="noopener noreferrer" className="text-secondary hover:text-primary transition-colors">
                 <Linkedin className="h-6 w-6" />
               </a>
+              
               <a href="mailto:Ashishkumarbagria@gmail.com" className="text-secondary hover:text-primary transition-colors">
                 <Mail className="h-6 w-6" />
-              </a>
+              </a><span>Ashishkumarbagria@gmail.com</span>
+              {/* <a href="https://linkedin.com/in/ashishkumar201" target="_blank" rel="noopener noreferrer" className="text-secondary hover:text-primary transition-colors">
+                <Phone className="h-6 w-6" />
+              </a> */}
+              <a href="tel:+918888888888" className="text-secondary hover:text-primary transition-colors">
+                <Phone className="h-6 w-6" />
+              </a><span>+91 88888 88888</span>
             </div>
           </motion.div>
           <motion.div

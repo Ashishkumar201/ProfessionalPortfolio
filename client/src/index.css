@@ -45,6 +45,9 @@
     @apply font-sans antialiased bg-background text-foreground;
   }
 }
+html, body {
+  overflow-x: hidden;
+}
 
 html {
   scroll-behavior: smooth;
